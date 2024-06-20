@@ -1,0 +1,5 @@
+**~
+*.xml
+config/**
+*.tsv
+**/__pycache__/**

@@ -1,0 +1,51 @@
+Create role:：
+①Create directly on the pgAdmin 4 page；
+②Create the role patient_manager using statements on the page and remember the password you set (different from the default one above)：
+CREATE ROLE patent_manager WITH LOGIN PASSWORD 'enter password here.';
+Login to the role and you will be asked to enter the password you just set：
+psql -d uspto_patents -U patent_manager;
+③Create a character directly from the command prompt：
+win+R cmd # Open Command Line
+d: # Enter the D drive
+cd D:\software\postgreSQL\bin> # This is the folder where the command line is located in the installation directory
+create user -U postgres -P patent_manager # Establishing role
+The prompt is as follows:
+Password entered for the new role: # The password for this new user
+Enter again: # Same as above
+Password: # Administrator password during installation
+------------------------*******------------------
+Create a database：
+CREATE DATABASE uspto_patents;
+GRANT ALL PRIVILEGES ON DATABASE uspto_patents TO patent_manager;
+------------------------*******------------------
+Create a table：
+CREATE TABLE uspto_patents(
+       publication_number VARCHAR,
+       publication_title VARCHAR,
+       publication_date DATE,
+       publication_type VARCHAR,
+       authors VARCHAR,
+	   reference VARCHAR,
+       sections VARCHAR,
+       section_classes VARCHAR,
+       section_class_subclasses VARCHAR,
+       section_class_subclass_groups VARCHAR,
+       abstract TEXT,
+       description TEXT,
+       claims TEXT,
+       created_at TIMESTAMP without time zone,
+       updated_at TIMESTAMP without time zone,
+       PRIMARY KEY(publication_number)
+);
+------------------------*******------------------
+Create an index (for easy retrieval)（new_energy_vehicles_patents）：
+CREATE INDEX idx_publication_date ON uspto_patents (publication_date);
+CREATE INDEX idx_publication_title ON uspto_patents ((lower(publication_title)));
+CREATE INDEX idx_sections ON uspto_patents USING GIN (sections);
+CREATE INDEX idx_reference ON uspto_patents USING GIN (reference);
+CREATE INDEX idx_section_classes ON uspto_patents USING GIN (section_classes);
+CREATE INDEX idx_section_class_subclasses ON uspto_patents USING GIN (section_class_subclasses);
+CREATE INDEX idx_section_class_subclass_groups ON uspto_patents USING GIN (section_class_subclass_groups);
+------------------------*******------------------
+Database size：
+SELECT pg_size_pretty(pg_database_size('uspto_patents'));
