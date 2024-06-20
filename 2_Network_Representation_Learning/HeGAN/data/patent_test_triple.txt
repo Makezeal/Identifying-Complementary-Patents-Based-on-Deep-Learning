@@ -1,0 +1,240 @@
+/m/01 US11218666	/patent/invented by/inventor	/m/02 Bertrand Haas
+/m/01 US11218666	/patent/invented by/inventor	/m/02 Layne Christopher Price
+/m/01 US11218667	/patent/invented by/inventor	/m/02 Kang Zhou
+/m/01 US11218668	/patent/invented by/inventor	/m/02 Matt Mireles
+/m/01 US11218668	/patent/invented by/inventor	/m/02 Yousif Astarabadi
+/m/01 US11218668	/patent/invented by/inventor	/m/02 Shaun Astarabadi
+/m/01 US11218668	/patent/invented by/inventor	/m/02 Emil Romanus
+/m/01 US11218668	/patent/invented by/inventor	/m/02 Kristina Nikkhah
+/m/01 US11218669	/patent/invented by/inventor	/m/02 William J. Benman
+/m/01 US11218678	/patent/invented by/inventor	/m/02 Chao-Chun Wang
+/m/01 US11218670	/patent/invented by/inventor	/m/02 Andrew Hodge
+/m/01 US11218670	/patent/invented by/inventor	/m/02 Nathan Ackerman
+/m/01 US11218670	/patent/invented by/inventor	/m/02 Jay Hamlin
+/m/01 US11218670	/patent/invented by/inventor	/m/02 Jeffrey Margolis
+/m/01 US11218672	/patent/invented by/inventor	/m/02 Tomokazu Ishikawa
+/m/01 US11218672	/patent/invented by/inventor	/m/02 Hitomi Hasegawa
+/m/01 US11218672	/patent/invented by/inventor	/m/02 Masaru Nakakomi
+/m/01 US11218673	/patent/invented by/inventor	/m/02 Masakazu Nishida
+/m/01 US11218674	/patent/invented by/inventor	/m/02 Chi-Wei Lin
+/m/01 US11218674	/patent/invented by/inventor	/m/02 Chien-Chun Peng
+/m/01 US11218674	/patent/invented by/inventor	/m/02 Hsun-Cheng Tu
+/m/01 US11218675	/patent/invented by/inventor	/m/02 Haruka Asai
+/m/01 US11218675	/patent/invented by/inventor	/m/02 Noriaki Takahashi
+/m/01 US11218666	patent/include/ipc	/m/03 H04N7/14
+/m/01 US11218666	patent/include/ipc	/m/03 G06K9/00
+/m/01 US11218666	patent/include/ipc	/m/03 G10L15/183
+/m/01 US11218666	patent/include/ipc	/m/03 G06T13/20
+/m/01 US11218666	patent/include/ipc	/m/03 H04N7/15
+/m/01 US11218666	patent/include/ipc	/m/03 G10L15/00
+/m/01 US11218666	patent/include/ipc	/m/03 G06T13/40
+/m/01 US11218667	patent/include/ipc	/m/03 H04N7/15
+/m/01 US11218667	patent/include/ipc	/m/03 H04N7/14
+/m/01 US11218667	patent/include/ipc	/m/03 G06F3/0354
+/m/01 US11218667	patent/include/ipc	/m/03 G06F3/038
+/m/01 US11218667	patent/include/ipc	/m/03 H04N9/31
+/m/01 US11218667	patent/include/ipc	/m/03 H04W4/80
+/m/01 US11218667	patent/include/ipc	/m/03 G10L15/22
+/m/01 US11218667	patent/include/ipc	/m/03 H04W84/12
+/m/01 US11218668	patent/include/ipc	/m/03 H04N7/15
+/m/01 US11218668	patent/include/ipc	/m/03 G06T11/20
+/m/01 US11218669	patent/include/ipc	/m/03 G06T7/55
+/m/01 US11218669	patent/include/ipc	/m/03 H04N7/15
+/m/01 US11218669	patent/include/ipc	/m/03 G06T19/00
+/m/01 US11218678	patent/include/ipc	/m/03 G06F3/038
+/m/01 US11218678	patent/include/ipc	/m/03 G09G5/00
+/m/01 US11218678	patent/include/ipc	/m/03 H04N9/31
+/m/01 US11218670	patent/include/ipc	/m/03 H04N7/18
+/m/01 US11218670	patent/include/ipc	/m/03 G08B13/196
+/m/01 US11218670	patent/include/ipc	/m/03 G06K19/06
+/m/01 US11218670	patent/include/ipc	/m/03 G06K9/00
+/m/01 US11218670	patent/include/ipc	/m/03 G06Q40/08
+/m/01 US11218670	patent/include/ipc	/m/03 G06Q50/18
+/m/01 US11218670	patent/include/ipc	/m/03 H04N21/44
+/m/01 US11218670	patent/include/ipc	/m/03 G11B20/00
+/m/01 US11218670	patent/include/ipc	/m/03 H04N21/2347
+/m/01 US11218670	patent/include/ipc	/m/03 H04N21/433
+/m/01 US11218670	patent/include/ipc	/m/03 H04N21/472
+/m/01 US11218670	patent/include/ipc	/m/03 H04N21/482
+/m/01 US11218670	patent/include/ipc	/m/03 H04N21/61
+/m/01 US11218670	patent/include/ipc	/m/03 G06F16/783
+/m/01 US11218670	patent/include/ipc	/m/03 G06F16/787
+/m/01 US11218670	patent/include/ipc	/m/03 H04N5/232
+/m/01 US11218672	patent/include/ipc	/m/03 G02F1/1337
+/m/01 US11218672	patent/include/ipc	/m/03 H04N9/31
+/m/01 US11218672	patent/include/ipc	/m/03 G02F1/1362
+/m/01 US11218672	patent/include/ipc	/m/03 G02F1/1333
+/m/01 US11218673	patent/include/ipc	/m/03 H04N9/31
+/m/01 US11218673	patent/include/ipc	/m/03 G02F1/13
+/m/01 US11218673	patent/include/ipc	/m/03 G03B21/00
+/m/01 US11218674	patent/include/ipc	/m/03 H04N9/31
+/m/01 US11218674	patent/include/ipc	/m/03 G09G5/10
+/m/01 US11218675	patent/include/ipc	/m/03 H04N9/31
+/m/01 US11218675	patent/include/ipc	/m/03 G06T5/00
+/m/01 US11218666	patent/cite/patent	/m/01 US2004/0207720
+/m/01 US11218666	patent/cite/patent	/m/01 US2008/0151786
+/m/01 US11218666	patent/cite/patent	/m/01 US2013/0257877
+/m/01 US11218666	patent/cite/patent	/m/01 US2015/0058023
+/m/01 US11218666	patent/cite/patent	/m/01 US2017/0308905
+/m/01 US11218666	patent/cite/patent	/m/01 US2019/0348027
+/m/01 US11218666	patent/cite/patent	/m/01 US2020/0226830
+/m/01 US11218667	patent/cite/patent	/m/01 US7057635
+/m/01 US11218667	patent/cite/patent	/m/01 US9374554
+/m/01 US11218667	patent/cite/patent	/m/01 US9407862
+/m/01 US11218667	patent/cite/patent	/m/01 US2014/0176664
+/m/01 US11218667	patent/cite/patent	/m/01 US2015/0181545
+/m/01 US11218667	patent/cite/patent	/m/01 CN1605070
+/m/01 US11218667	patent/cite/patent	/m/01 CN201717985
+/m/01 US11218667	patent/cite/patent	/m/01 CN103458221
+/m/01 US11218667	patent/cite/patent	/m/01 CN104717450
+/m/01 US11218667	patent/cite/patent	/m/01 CN205754615
+/m/01 US11218667	patent/cite/patent	/m/01 CN106534818
+/m/01 US11218667	patent/cite/patent	/m/01 CN206060790
+/m/01 US11218667	patent/cite/patent	/m/01 CN107172382
+/m/01 US11218667	patent/cite/patent	/m/01 CN207099091
+/m/01 US11218667	patent/cite/patent	/m/01 CN207744059
+/m/01 US11218667	patent/cite/patent	/m/01 CN109068087
+/m/01 US11218667	patent/cite/patent	/m/01 WO2003034235
+/m/01 US11218668	patent/cite/patent	/m/01 US10958874
+/m/01 US11218668	patent/cite/patent	/m/01 US2012/0236105
+/m/01 US11218668	patent/cite/patent	/m/01 US2015/0042743
+/m/01 US11218668	patent/cite/patent	/m/01 US2019/0222807
+/m/01 US11218668	patent/cite/patent	/m/01 US2019/0342507
+/m/01 US11218668	patent/cite/patent	/m/01 US2021/0042508
+/m/01 US11218668	patent/cite/patent	/m/01 US2021/0049468
+/m/01 US11218668	patent/cite/patent	/m/01 US2021/0111916
+/m/01 US11218669	patent/cite/patent	/m/01 US5784546
+/m/01 US11218669	patent/cite/patent	/m/01 US5966130
+/m/01 US11218669	patent/cite/patent	/m/01 US6798407
+/m/01 US11218669	patent/cite/patent	/m/01 US7755635
+/m/01 US11218669	patent/cite/patent	/m/01 US7839399
+/m/01 US11218669	patent/cite/patent	/m/01 US2006/0285747
+/m/01 US11218669	patent/cite/patent	/m/01 US2016/0224845
+/m/01 US11218669	patent/cite/patent	/m/01 US2017/0019627
+/m/01 US11218669	patent/cite/patent	/m/01 US2017/0237941
+/m/01 US11218669	patent/cite/patent	/m/01 US2018/0074332
+/m/01 US11218669	patent/cite/patent	/m/01 US2018/0164103
+/m/01 US11218669	patent/cite/patent	/m/01 US2019/0266774
+/m/01 US11218678	patent/cite/patent	/m/01 US5561285
+/m/01 US11218678	patent/cite/patent	/m/01 US7221343
+/m/01 US11218678	patent/cite/patent	/m/01 US2007/0189345
+/m/01 US11218678	patent/cite/patent	/m/01 US2008/0068002
+/m/01 US11218678	patent/cite/patent	/m/01 US2008/0165815
+/m/01 US11218678	patent/cite/patent	/m/01 US2011/0181791
+/m/01 US11218678	patent/cite/patent	/m/01 US2013/0069928
+/m/01 US11218678	patent/cite/patent	/m/01 US2014/0079080
+/m/01 US11218678	patent/cite/patent	/m/01 US2014/0125873
+/m/01 US11218678	patent/cite/patent	/m/01 US2014/0253527
+/m/01 US11218678	patent/cite/patent	/m/01 US2015/0161926
+/m/01 US11218678	patent/cite/patent	/m/01 US2015/0260984
+/m/01 US11218678	patent/cite/patent	/m/01 US2017/0208298
+/m/01 US11218678	patent/cite/patent	/m/01 US2017/0208306
+/m/01 US11218678	patent/cite/patent	/m/01 US2017/0277031
+/m/01 US11218678	patent/cite/patent	/m/01 US2017/0289510
+/m/01 US11218678	patent/cite/patent	/m/01 US2018/0288377
+/m/01 US11218678	patent/cite/patent	/m/01 US2019/0037183
+/m/01 US11218678	patent/cite/patent	/m/01 CN105849619
+/m/01 US11218678	patent/cite/patent	/m/01 CN106230244
+/m/01 US11218678	patent/cite/patent	/m/01 CN107181239
+/m/01 US11218678	patent/cite/patent	/m/01 TW201233042
+/m/01 US11218678	patent/cite/patent	/m/01 TW625929
+/m/01 US11218670	patent/cite/patent	/m/01 US5557254
+/m/01 US11218670	patent/cite/patent	/m/01 US7319378
+/m/01 US11218670	patent/cite/patent	/m/01 US9665777
+/m/01 US11218670	patent/cite/patent	/m/01 US10482738
+/m/01 US11218670	patent/cite/patent	/m/01 US10491936
+/m/01 US11218670	patent/cite/patent	/m/01 US10523996
+/m/01 US11218670	patent/cite/patent	/m/01 US2003/0093810
+/m/01 US11218670	patent/cite/patent	/m/01 US2004/0153479
+/m/01 US11218670	patent/cite/patent	/m/01 US2009/0245573
+/m/01 US11218670	patent/cite/patent	/m/01 US2010/0021006
+/m/01 US11218670	patent/cite/patent	/m/01 US2011/0050947
+/m/01 US11218670	patent/cite/patent	/m/01 US2012/0023251
+/m/01 US11218670	patent/cite/patent	/m/01 US2012/0179788
+/m/01 US11218670	patent/cite/patent	/m/01 US2013/0027552
+/m/01 US11218670	patent/cite/patent	/m/01 US2013/0080916
+/m/01 US11218670	patent/cite/patent	/m/01 US2013/0127980
+/m/01 US11218670	patent/cite/patent	/m/01 US2013/0141543
+/m/01 US11218670	patent/cite/patent	/m/01 US2013/0166711
+/m/01 US11218670	patent/cite/patent	/m/01 US2013/0307971
+/m/01 US11218670	patent/cite/patent	/m/01 US2014/0094992
+/m/01 US11218670	patent/cite/patent	/m/01 US2014/0232863
+/m/01 US11218670	patent/cite/patent	/m/01 US2014/0254934
+/m/01 US11218670	patent/cite/patent	/m/01 US2014/0266669
+/m/01 US11218670	patent/cite/patent	/m/01 US2015/0029341
+/m/01 US11218670	patent/cite/patent	/m/01 US2015/0085159
+/m/01 US11218670	patent/cite/patent	/m/01 US2015/0088335
+/m/01 US11218670	patent/cite/patent	/m/01 US2015/0098686
+/m/01 US11218670	patent/cite/patent	/m/01 US2015/0381948
+/m/01 US11218670	patent/cite/patent	/m/01 US2015/0381949
+/m/01 US11218670	patent/cite/patent	/m/01 US2016/0021344
+/m/01 US11218670	patent/cite/patent	/m/01 US2016/0042767
+/m/01 US11218670	patent/cite/patent	/m/01 US2016/0110972
+/m/01 US11218670	patent/cite/patent	/m/01 US2016/0191591
+/m/01 US11218670	patent/cite/patent	/m/01 US2016/0212501
+/m/01 US11218670	patent/cite/patent	/m/01 US2016/0224837
+/m/01 US11218670	patent/cite/patent	/m/01 US2016/0292511
+/m/01 US11218670	patent/cite/patent	/m/01 US2016/0292936
+/m/01 US11218670	patent/cite/patent	/m/01 US2016/0364621
+/m/01 US11218670	patent/cite/patent	/m/01 US2017/0124137
+/m/01 US11218670	patent/cite/patent	/m/01 US2017/0177176
+/m/01 US11218670	patent/cite/patent	/m/01 US2017/0251163
+/m/01 US11218670	patent/cite/patent	/m/01 US2017/0289601
+/m/01 US11218670	patent/cite/patent	/m/01 US2017/0364537
+/m/01 US11218670	patent/cite/patent	/m/01 US2018/0025031
+/m/01 US11218670	patent/cite/patent	/m/01 US2018/0262724
+/m/01 US11218670	patent/cite/patent	/m/01 US2019/0079108
+/m/01 US11218670	patent/cite/patent	/m/01 US2019/0149772
+/m/01 US11218670	patent/cite/patent	/m/01 US2019/0244033
+/m/01 US11218670	patent/cite/patent	/m/01 US2019/0294631
+/m/01 US11218670	patent/cite/patent	/m/01 US2019/0354771
+/m/01 US11218672	patent/cite/patent	/m/01 US2011/0109866
+/m/01 US11218672	patent/cite/patent	/m/01 US2015/0131041
+/m/01 US11218672	patent/cite/patent	/m/01 US2015/0346556
+/m/01 US11218672	patent/cite/patent	/m/01 US2016/0029502
+/m/01 US11218672	patent/cite/patent	/m/01 US2018/0070461
+/m/01 US11218672	patent/cite/patent	/m/01 JP2015-225227
+/m/01 US11218673	patent/cite/patent	/m/01 US9075276
+/m/01 US11218673	patent/cite/patent	/m/01 US2001/0013920
+/m/01 US11218673	patent/cite/patent	/m/01 US2008/0252835
+/m/01 US11218673	patent/cite/patent	/m/01 US2011/0096233
+/m/01 US11218673	patent/cite/patent	/m/01 US2016/0131929
+/m/01 US11218673	patent/cite/patent	/m/01 US2016/0284302
+/m/01 US11218673	patent/cite/patent	/m/01 US2019/0086698
+/m/01 US11218673	patent/cite/patent	/m/01 US2019/0190162
+/m/01 US11218673	patent/cite/patent	/m/01 US2019/0212589
+/m/01 US11218673	patent/cite/patent	/m/01 JP2004-053758
+/m/01 US11218673	patent/cite/patent	/m/01 JP2008-281991
+/m/01 US11218673	patent/cite/patent	/m/01 JP2009-031545
+/m/01 US11218673	patent/cite/patent	/m/01 JP2013-041130
+/m/01 US11218673	patent/cite/patent	/m/01 JP2016-095496
+/m/01 US11218674	patent/cite/patent	/m/01 US10942607
+/m/01 US11218674	patent/cite/patent	/m/01 US2008/0259289
+/m/01 US11218674	patent/cite/patent	/m/01 US2009/0086314
+/m/01 US11218674	patent/cite/patent	/m/01 US2013/0201457
+/m/01 US11218674	patent/cite/patent	/m/01 US2016/0373628
+/m/01 US11218674	patent/cite/patent	/m/01 US2018/0187484
+/m/01 US11218674	patent/cite/patent	/m/01 CN101046600
+/m/01 US11218674	patent/cite/patent	/m/01 CN101789230
+/m/01 US11218674	patent/cite/patent	/m/01 CN106502031
+/m/01 US11218674	patent/cite/patent	/m/01 CN208863001
+/m/01 US11218674	patent/cite/patent	/m/01 TW200712733
+/m/01 US11218674	patent/cite/patent	/m/01 TWI429289
+/m/01 US11218674	patent/cite/patent	/m/01 TW201737701
+/m/01 US11218674	patent/cite/patent	/m/01 TW201916677
+/m/01 US11218674	patent/cite/patent	/m/01 TW201921083
+/m/01 US11218675	patent/cite/patent	/m/01 US5905567
+/m/01 US11218675	patent/cite/patent	/m/01 US2001/0019325
+/m/01 US11218675	patent/cite/patent	/m/01 US2008/0117788
+/m/01 US11218675	patent/cite/patent	/m/01 US2009/0311636
+/m/01 US11218675	patent/cite/patent	/m/01 US2010/0310126
+/m/01 US11218675	patent/cite/patent	/m/01 US2017/0068158
+/m/01 US11218675	patent/cite/patent	/m/01 JP2005-269528
+/m/01 US11218675	patent/cite/patent	/m/01 JP2005-352171
+/m/01 US11218675	patent/cite/patent	/m/01 JP2009-042838
+/m/01 US11218675	patent/cite/patent	/m/01 JP2009-524849
+/m/01 US11218675	patent/cite/patent	/m/01 JP2011-186110
+/m/01 US11218675	patent/cite/patent	/m/01 JP2010-081488
+/m/01 US11218675	patent/cite/patent	/m/01 JP2011-029727
+/m/01 US11218675	patent/cite/patent	/m/01 JP2011-186110
+/m/01 US11218675	patent/cite/patent	/m/01 WOWO 2016/157671
